@@ -256,7 +256,7 @@ def make_random_locfile_test1():
     b4 = Unit("b4",280,0,800,200)
     b5 = Unit("b5",280,200,600,440)
     base = [b1, b2, b3, b4, b5]
-    make_random_locfile(base, "cells18.loc")
+    make_random_locfile(base, "designs/cells18.loc")
 
 def random_netlist(locfile, netsfile, num_nets):
     units = read_units(locfile)
