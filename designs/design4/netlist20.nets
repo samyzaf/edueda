@@ -1,0 +1,20 @@
+net: net0, elements: u16 u49 u51, drivers: u49
+net: net1, elements: u25 u29 u93, drivers: u29
+net: net2, elements: u99 u113, drivers: u113
+net: net3, elements: u35 u117, drivers: u117
+net: net4, elements: u18 u72, drivers: u72
+net: net5, elements: u6 u10, drivers: u6
+net: net6, elements: u32 u92, drivers: u92
+net: net7, elements: u9 u18 u64 u69 u77 u83 u86 u109 u113 u125, drivers: u86
+net: net8, elements: u70 u83 u95 u115 u121, drivers: u70
+net: net9, elements: u77 u115 u127 u128, drivers: u128
+net: net10, elements: u32 u62, drivers: u62
+net: net11, elements: u31 u54 u121, drivers: u121
+net: net12, elements: u7 u123, drivers: u7
+net: net13, elements: u44 u81 u129, drivers: u129
+net: net14, elements: u5 u37 u39 u81 u117 u121 u123, drivers: u121
+net: net15, elements: u25 u35 u128, drivers: u25
+net: net16, elements: u5 u41 u49 u68 u71 u115, drivers: u5
+net: net17, elements: u29 u39, drivers: u39
+net: net18, elements: u59 u87, drivers: u59
+net: net19, elements: u17 u32 u59 u101 u107, drivers: u59

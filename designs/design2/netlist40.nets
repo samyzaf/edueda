@@ -1,0 +1,40 @@
+net: net0, elements: u120 u193 u257 u532, drivers: u120
+net: net1, elements: u11 u260 u267 u326, drivers: u267
+net: net2, elements: u47 u145 u154 u290 u565, drivers: u154
+net: net3, elements: u85 u279, drivers: u279
+net: net4, elements: u422 u465 u557, drivers: u422
+net: net5, elements: u158 u175 u423, drivers: u423
+net: net6, elements: u15 u139 u178 u199 u334 u435, drivers: u178
+net: net7, elements: u16 u55 u89 u298 u328 u571, drivers: u298
+net: net8, elements: u107 u392 u494, drivers: u107
+net: net9, elements: u43 u53 u258 u483, drivers: u483
+net: net10, elements: u308 u487, drivers: u487
+net: net11, elements: u239 u425, drivers: u239
+net: net12, elements: u370 u481, drivers: u481
+net: net13, elements: u173 u539, drivers: u539
+net: net14, elements: u82 u219 u285, drivers: u285
+net: net15, elements: u131 u236 u378, drivers: u131
+net: net16, elements: u535 u541 u561, drivers: u535
+net: net17, elements: u39 u71 u76 u135 u145 u176 u403 u417 u435 u503 u559 u564, drivers: u564
+net: net18, elements: u39 u47 u305 u483 u568, drivers: u47
+net: net19, elements: u115 u567, drivers: u567
+net: net20, elements: u169 u308, drivers: u308
+net: net21, elements: u173 u292, drivers: u173
+net: net22, elements: u36 u239, drivers: u239
+net: net23, elements: u445 u459 u466, drivers: u459
+net: net24, elements: u309 u512, drivers: u309
+net: net25, elements: u316 u357 u468 u563, drivers: u357
+net: net26, elements: u167 u350, drivers: u350
+net: net27, elements: u27 u260 u401, drivers: u27
+net: net28, elements: u21 u403, drivers: u21
+net: net29, elements: u120 u276, drivers: u120
+net: net30, elements: u76 u118 u122 u143, drivers: u118
+net: net31, elements: u197 u328, drivers: u328
+net: net32, elements: u120 u478 u485 u543, drivers: u478
+net: net33, elements: u138 u198 u380 u561, drivers: u561
+net: net34, elements: u303 u347 u502, drivers: u502
+net: net35, elements: u395 u429, drivers: u429
+net: net36, elements: u441 u451 u569, drivers: u451
+net: net37, elements: u214 u218, drivers: u214
+net: net38, elements: u195 u399 u559, drivers: u399
+net: net39, elements: u26 u418, drivers: u418

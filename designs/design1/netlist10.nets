@@ -1,0 +1,10 @@
+net: net0, elements: u13 u62 u87 u109, drivers: u62
+net: net1, elements: u8 u78, drivers: u8
+net: net2, elements: u5 u102 u118, drivers: u5
+net: net3, elements: u94 u98, drivers: u98
+net: net4, elements: u9 u114, drivers: u114
+net: net5, elements: u26 u74, drivers: u26
+net: net6, elements: u6 u52, drivers: u52
+net: net7, elements: u74 u85, drivers: u85
+net: net8, elements: u7 u41 u55 u80, drivers: u7
+net: net9, elements: u5 u22, drivers: u5

@@ -1,0 +1,11 @@
+design_width = 800
+design_height = 600
+design_layers = 14
+wire_min_width_1 = 1
+wire_min_width_2 = 1
+wire_min_width_3 = 2
+wire_min_width_4 = 2
+wire_min_space_1 = 1
+wire_min_space_2 = 1
+wire_min_space_3 = 2
+wire_min_space_4 = 2

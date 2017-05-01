@@ -1,0 +1,40 @@
+net: net0, elements: u26 u55, drivers: u55
+net: net1, elements: u14 u110, drivers: u110
+net: net2, elements: u41 u104 u108, drivers: u108
+net: net3, elements: u73 u77, drivers: u77
+net: net4, elements: u14 u15 u31 u37 u42 u43 u65 u76 u104 u108 u116 u117, drivers: u14
+net: net5, elements: u55 u68 u72 u75 u77 u94, drivers: u75
+net: net6, elements: u68 u80, drivers: u68
+net: net7, elements: u77 u78 u88, drivers: u88
+net: net8, elements: u29 u56 u86 u87, drivers: u29
+net: net9, elements: u17 u47, drivers: u17
+net: net10, elements: u9 u51 u117, drivers: u51
+net: net11, elements: u6 u69, drivers: u6
+net: net12, elements: u54 u60, drivers: u60
+net: net13, elements: u16 u30 u33 u57 u89 u103, drivers: u16
+net: net14, elements: u4 u27, drivers: u27
+net: net15, elements: u14 u41 u71 u74 u96 u98 u101 u114, drivers: u96
+net: net16, elements: u50 u116, drivers: u50
+net: net17, elements: u49 u79, drivers: u49
+net: net18, elements: u7 u63, drivers: u7
+net: net19, elements: u99 u109, drivers: u109
+net: net20, elements: u97 u109, drivers: u109
+net: net21, elements: u32 u81 u101 u116, drivers: u81
+net: net22, elements: u31 u54 u88 u90, drivers: u90
+net: net23, elements: u24 u92, drivers: u92
+net: net24, elements: u105 u108, drivers: u105
+net: net25, elements: u9 u17 u105 u114 u116, drivers: u9
+net: net26, elements: u23 u32 u62, drivers: u23
+net: net27, elements: u2 u15 u48 u50 u71 u78 u99, drivers: u71
+net: net28, elements: u14 u23, drivers: u14
+net: net29, elements: u47 u77 u82, drivers: u77
+net: net30, elements: u12 u37 u41 u86, drivers: u12
+net: net31, elements: u13 u33 u35 u58 u62 u85 u105, drivers: u33
+net: net32, elements: u17 u35 u84, drivers: u35
+net: net33, elements: u31 u115, drivers: u115
+net: net34, elements: u100 u101, drivers: u100
+net: net35, elements: u17 u81, drivers: u81
+net: net36, elements: u80 u95, drivers: u95
+net: net37, elements: u13 u20, drivers: u13
+net: net38, elements: u3 u9 u13 u20 u21 u38 u80 u92 u106 u116, drivers: u21 u80
+net: net39, elements: u49 u108, drivers: u108

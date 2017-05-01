@@ -1,0 +1,40 @@
+net: net0, elements: u31 u71, drivers: u71
+net: net1, elements: u43 u110, drivers: u110
+net: net2, elements: u41 u47 u76 u114, drivers: u114
+net: net3, elements: u8 u88, drivers: u8
+net: net4, elements: u43 u71 u117, drivers: u71
+net: net5, elements: u30 u55 u98 u112, drivers: u98
+net: net6, elements: u29 u31 u106 u115, drivers: u106
+net: net7, elements: u45 u93, drivers: u45
+net: net8, elements: u22 u89 u103, drivers: u89
+net: net9, elements: u28 u47 u106 u110 u117, drivers: u28 u106
+net: net10, elements: u12 u24 u38 u45 u72 u80 u87 u96 u120, drivers: u45
+net: net11, elements: u38 u45 u56 u57 u86, drivers: u56
+net: net12, elements: u37 u92, drivers: u92
+net: net13, elements: u88 u95 u99, drivers: u99
+net: net14, elements: u13 u15 u102 u120 u121, drivers: u120
+net: net15, elements: u1 u7 u42 u49 u51 u115 u124, drivers: u1
+net: net16, elements: u101 u130, drivers: u130
+net: net17, elements: u33 u48, drivers: u48
+net: net18, elements: u45 u47 u49 u81, drivers: u45
+net: net19, elements: u4 u9 u38 u83 u109, drivers: u9
+net: net20, elements: u45 u50 u92 u128, drivers: u128
+net: net21, elements: u12 u65, drivers: u65
+net: net22, elements: u50 u87, drivers: u87
+net: net23, elements: u26 u70, drivers: u26
+net: net24, elements: u9 u40 u93 u96 u104 u120, drivers: u96
+net: net25, elements: u16 u50 u57 u113, drivers: u50
+net: net26, elements: u24 u51 u58, drivers: u51
+net: net27, elements: u1 u4 u71, drivers: u4
+net: net28, elements: u6 u48, drivers: u48
+net: net29, elements: u4 u23 u66 u77 u105 u109 u112 u120, drivers: u77
+net: net30, elements: u20 u88 u98 u123, drivers: u123
+net: net31, elements: u11 u31 u42 u97 u112 u121, drivers: u31 u42
+net: net32, elements: u8 u94, drivers: u8
+net: net33, elements: u27 u41, drivers: u27
+net: net34, elements: u17 u26, drivers: u17
+net: net35, elements: u31 u38, drivers: u31
+net: net36, elements: u65 u120, drivers: u120
+net: net37, elements: u22 u71, drivers: u22
+net: net38, elements: u42 u58 u64 u67 u90, drivers: u67
+net: net39, elements: u91 u121, drivers: u91
