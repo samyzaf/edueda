@@ -10,3 +10,13 @@ they can be used for designing EDA placement and floorplanning systems.
 It also exhibits object oriented disciplines.
 The code has been developed as part of several engineering design projects at Ort Braude College, Israel,
 and hereby is made available for public use. 
+
+## Dependencies
+Note that the code depends on the **xcanvas** and **pytkcon** modules.
+These two modules are available from **PyPI**:
+https://pypi.python.org/pypi
+<br/>
+and are easily installed using:
+1. pip install xcanvas
+2. pip install pytkcon
+
