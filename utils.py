@@ -1,11 +1,12 @@
-# Utilities for:
-#   - creating random lists of cells (units)
-#   - random split of cells for generating random floorplans
 import sys
 import time
 import tkinter as tk
 from unit import Unit
 from net import Net
+
+# Utilities for:
+#   - creating random lists of cells (units)
+#   - random split of cells for generating random floorplans
 
 def read_units(file):
     units = []

@@ -1,3 +1,6 @@
+import tkinter as tk
+from tkinter import Frame, Label, SUNKEN, BOTTOM, BOTH, W, X
+
 # An Introduction to Tkinter
 # tkSimpleStatusBar.py
 #
@@ -7,9 +10,6 @@
 # http://www.pythonware.com
 #
 # Some enhancements by Samy Zafrany (June 2014)
-
-import tkinter as tk
-from tkinter import Frame, Label, SUNKEN, BOTTOM, BOTH, W, X
 
 class StatusBar(Frame):
     def __init__(self, master, **opt):

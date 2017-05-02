@@ -1,9 +1,3 @@
-################
-#              #
-#  Line Class  #
-#              #
-################
-
 from point import *
 import math
 

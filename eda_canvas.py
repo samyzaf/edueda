@@ -4,9 +4,10 @@ from tkinter import messagebox
 from xcanvas import XCanvas
 
 # General template for creating a standard Application UI
-# Just copy this code and replcae the methods to whatever you need
-# The Main App window in this example is an XCanvas window, but it can
-# be replaced with whatever is needed
+# For educational overview and practice.
+# Just copy this code and replcae the methods to whatever you need.
+# The Main App window in this example is a simple XCanvas window, but it can
+# be later replaced with whatever is needed.
 
 class EdaCanvas(tk.Frame):
     def __init__(self, master=None, **opt):

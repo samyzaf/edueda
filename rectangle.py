@@ -1,5 +1,3 @@
-# The Rectangle Class ADT implementation
-
 from point import *
 
 class Rectangle:

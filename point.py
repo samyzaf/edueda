@@ -1,8 +1,3 @@
-#################
-#               #
-#  Point Class  #
-#               #
-#################
 
 class Point:
     "Create an object of type Point from two integers"
